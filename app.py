@@ -55,3 +55,7 @@ def play_game():
                 sys.exit()
         else:
             print("Invalid input. Please enter one of the rock, scissor or paper")
+
+# Call the main function
+if __name__ == "__main__":
+    main()
